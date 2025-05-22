@@ -28,7 +28,7 @@ Below is a sample screenshot of the Streamlit dashboard interface:
 
 ## 📦 Tools & Libraries
 - Streamlit
-- scikit-learn (Ridge Regression)
+- scikit-learn (XGBoost Regressor)
 - Plotly
 - Pandas & NumPy
 - FPDF for reporting
