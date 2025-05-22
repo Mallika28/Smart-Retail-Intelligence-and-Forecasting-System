@@ -24,7 +24,7 @@ Everything is packaged in a clean dashboard with separate tabs for Overview, Adv
 ## 📷 Dashboard Preview
 Below is a sample screenshot of the Streamlit dashboard interface:
 
-![Dashboard Screenshot](assets/dashboard_preview.png)
+![Dashboard Screenshot](assets/dashboard_preview.jpeg)
 
 ## 📦 Tools & Libraries
 - Streamlit
